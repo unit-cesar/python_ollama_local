@@ -1,0 +1,1 @@
+Exemplo de ternário em PHP?
